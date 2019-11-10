@@ -43,11 +43,12 @@
 -----
 
 ### 社区（论坛）
-  + [(国内可进) github.com](https://github.com/)
   + [(国内可进) CSDN - csdn.net](https://www.csdn.net/)
   + [(国内可进) 掘金 - juejin.im](https://juejin.im/)
   + [(国内可进) 知乎 - zhihu.com](https://www.zhihu.com/)
-  + [(需翻墙) Stack Overflow - stackoverflow.com](https://stackoverflow.com/)
+  + [(尽量翻墙) github.com](https://github.com/)
+  + [(尽量翻墙) Stack Overflow - stackoverflow.com](https://stackoverflow.com/)
+  
 
 ------- 
 
